@@ -1,0 +1,30 @@
+{
+  "name": "itsybitsy",
+  "version": "1.0.0",
+  "description": "A tiny link shortening service using Express and LevelDB.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "level": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hedgehog1029/itsybitsy.git"
+  },
+  "keywords": [
+    "link",
+    "shortener",
+    "express",
+    "leveldb"
+  ],
+  "author": "hedgehog1029 / offbeatwitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hedgehog1029/itsybitsy/issues"
+  },
+  "homepage": "https://github.com/hedgehog1029/itsybitsy#readme"
+}
