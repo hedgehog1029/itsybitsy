@@ -67,4 +67,4 @@ app.get("/:id", function(req, res) {
 });
 
 app.listen(1341);
-console.log("[small] bound to ::1341")
+console.log("[itsybitsy] bound to ::1341");
